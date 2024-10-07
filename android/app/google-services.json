@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "630443648315",
+    "project_id": "portfolio-d3d7d",
+    "storage_bucket": "portfolio-d3d7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630443648315:android:3195d22488b206719c431e",
+        "android_client_info": {
+          "package_name": "com.example.protfolio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk1Qn2GoEmYUX75JeN8iYBqqaS4jwin14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
